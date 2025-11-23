@@ -14,6 +14,7 @@ Este material foi cuidadosamente desenvolvido para oferecer uma compreensão só
 | Discente | Credencial |  
 |-----------|------------|  
 | **Edilson Alves** | [🔗 Lattes](https://lattes.cnpq.br/4989973424640557) |  
+| **Cauã Netto** | [[🔗 Lattes](https://lattes.cnpq.br/5202229747836883) |  
   
 ## 🎯 Público-Alvo  
   
