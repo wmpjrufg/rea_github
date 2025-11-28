@@ -13,8 +13,8 @@ Este material foi cuidadosamente desenvolvido para oferecer uma compreensão só
   
 | Discente | Credencial |  
 |-----------|------------|  
-| **Edilson Alves** | [🔗 Lattes](https://lattes.cnpq.br/4989973424640557) |  
 | **Cauã Netto** | [🔗 Lattes](https://lattes.cnpq.br/5202229747836883) |  
+| **Edilson Alves** | [🔗 Lattes](https://lattes.cnpq.br/4989973424640557) |  
   
 ## 🎯 Público-Alvo  
   
@@ -22,5 +22,10 @@ Este material foi cuidadosamente desenvolvido para oferecer uma compreensão só
 - 👨‍🏫 **Professores** que desejam incorporar versionamento em suas disciplinas    
 - 💼 **Profissionais** que buscam qualificação em ferramentas de desenvolvimento  
 - 🔧 **Qualquer pessoa** interessada em aprender controle de versão  
-  
-## 📋 [Acesse o conteúdo](http://lattes.cnpq.br/6706645814872000)  
+
+## 📋 Coisas que você precisa instalar ou possuir conta  
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Git](https://git-scm.com/install/windows)  
+- Uma conta no [GitHub](https://github.com/)
+
+## 📋 [Acesse o conteúdo](https://github.com/wmpjrufg/rea_github/blob/main/README.md)  
