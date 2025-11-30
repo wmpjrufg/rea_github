@@ -36,8 +36,8 @@ Ao instalar o **Git** existirá diversas maneiras de efetuar o uso dessa ferrame
 - A segunda maneira é pelo terminal da própria ferramenta o **Git Bash** disponível na busca do Windows;  
 - A terceira opção é fazer uso dentro do **VS Code** como mostra a Figura r.01. Sendo essa opção a mais utilizada por programadores.  
   
-![Figura r.01](imgs/fig_00_readme.png)
-**Figura r.01** - Opção de uso do Git pelo VS Code.
+![Figura r.01](imgs/fig_00_readme.png)  
+**Figura r.01.** Opção de uso do Git pelo VS Code.
 
 > Em linhas gerais vamos aplicar as modificações via terminal para fixar o uso. Depois com a prática os usuários poderão utilizar os botões que aplicam as modificações, e configurações.
 
