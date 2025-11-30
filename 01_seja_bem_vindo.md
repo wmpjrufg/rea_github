@@ -41,7 +41,7 @@ Feito isso, a segunda informação que precisamos é o email, que é o mesmo cri
 git config --global user.email <meu_email@email.com>
 ```
 
-### _Exemplo_
+## _Exemplo_
 ```bash
 git config --global user.email "einsten123@ufcat.edu.br"
 ```
