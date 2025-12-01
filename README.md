@@ -16,6 +16,7 @@ Este material foi cuidadosamente desenvolvido para oferecer uma compreensão só
 | **Cauã Netto** | [🔗 Lattes](https://lattes.cnpq.br/5202229747836883) |  
 | **Edilson Alves** | [🔗 Lattes](https://lattes.cnpq.br/4989973424640557) |  
 | **Renata Pensim** | [🔗 Lattes](http://lattes.cnpq.br/1294978096445231) |  
+| **João Paulo M. Lopes** | [🔗 Lattes](http://lattes.cnpq.br/5400821405477133) |  
   
 ## 🎯 Público-Alvo  
   
