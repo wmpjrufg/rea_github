@@ -33,7 +33,8 @@ sendo resetado para o commit imediatamente anterior, caso queira resetar para 2 
 git reset HEAD^2
 ```
 
-Para resetar o estado do commit e desfazer as alterações locais e vincular o codigo ao estado do commit a ser resetado utilize a flag `--hard`:
+Para resetar o estado do commit e desfazer as alterações locais ou seja vincular o codigo local ao estado do commit a ser resetado utilize a flag `--hard`:
 ```bash
 git reset --hard HEAD^1
 ```
+
