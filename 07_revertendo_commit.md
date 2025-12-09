@@ -32,9 +32,25 @@ sendo resetado para o commit imediatamente anterior, caso queira resetar para 2 
 ```bash
 git reset HEAD^2
 ```
+e assim por diante, caso queira resetar através do id do commit:
+```bash
+git log --oneline
+git reset [ID_DO_COMMIT]
+```
 
 Para resetar o estado do commit e desfazer as alterações locais ou seja vincular o codigo local ao estado do commit a ser resetado utilize a flag `--hard`:
 ```bash
-git reset --hard HEAD^1
+git reset --hard HEAD^[N]
+OU
+git reset --hard [ID_DO_COMMIT]
+```
+
+## Comando: revert
+`revert` é o comando de reversão mais seguro. Diferentemente do `reset` o `revert` cria um novo commit e copia o estado anterior escolhido para esse novo commit, mantendo o commit atual e criando um novo com o estado anterior.
+
+```bash
+git revert HEAD^1
+OU
+git revert [ID_DO_COMMIT]
 ```
 
