@@ -1,6 +1,6 @@
 # Alterando ou revertendo commits 
 
-## Comando |--amend|
+## Comando: --amend
 
 --amend é um comando utilizado para sobrescrever as alterações no commit atual, seja adicionar ou alterar um arquivo já existente ou apenas modificar a descrição do commit atual.
 
@@ -17,3 +17,4 @@ git commit --amend -m "sobrescrevendo commit"
 OU
 git commit --amend --no-edit
 ```
+
