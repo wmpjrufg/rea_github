@@ -49,8 +49,9 @@ git reset --hard [ID_DO_COMMIT]
 `revert` é o comando de reversão mais seguro. Diferentemente do `reset` o `revert` cria um novo commit e copia o estado anterior escolhido para esse novo commit, mantendo o commit atual e criando um novo com o estado anterior.
 
 ```bash
-git revert HEAD^1
+git revert HEAD^[N]
 OU
 git revert [ID_DO_COMMIT]
 ```
+
 
