@@ -9,14 +9,15 @@ Para modificar a descrição:
 git commit --amend -m "nova descricao"
 ```
 
-Para sobrescrever as alteraçoes em arquivos:
+Para sobrescrever as alterações em arquivos:
 ```bash
 git add .
 git commit --amend -m "sobrescrevendo commit"
 ```
-OU
 ```bash
 git commit --amend --no-edit
 ```
 
-ao utilizar a flag --amend após o git commit, o git entende que deseja alterar o commit já realizado, não criar um novo commit.
+ao utilizar a flag '--amend' após o `git commit`, o git entende que deseja alterar o commit já realizado, não criar um novo commit.
+
+## Comando: reset
